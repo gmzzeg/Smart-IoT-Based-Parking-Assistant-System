@@ -46,8 +46,10 @@ Not:Rezervasyonsuz park alanlarının bariyerleri varsayılan olarak açıktır.
 4.Bariyer Kontrolü:
 
 -Servo motorlu bariyer, rezervasyon doğrulaması sonrası kullanıcı yönetimi ile açılır veya kapanır.
+
 -------------------------------------------------------------------------------------------------
 Donanım Gereksinimleri
+
 -HC-SR04 ultrasonik sensörler 
 -Arduino Mega
 -Servo motorlu bariyer sistemi
