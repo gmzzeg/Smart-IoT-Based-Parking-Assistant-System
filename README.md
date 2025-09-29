@@ -59,6 +59,17 @@ Not: Bu prototip, donanım sınırlamaları nedeniyle 8 park alanı için tasarl
 
 -------------------------------------------------------------------------------------------------
 Mobil Uygulama - Rezervasyon Arayüzü 
+
+
+
+
+
+
+
+
+
+
+
 <img width="237" height="440" alt="Ekran görüntüsü 2025-09-29 174906" src="https://github.com/user-attachments/assets/afa19a35-99e9-4133-a541-7a6e2ac8feab" />
 
 
