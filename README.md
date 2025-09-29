@@ -56,6 +56,7 @@ Donanım Gereksinimleri
 -USB kablo ve güç kaynağı 
  
 Not: Bu prototip, donanım sınırlamaları nedeniyle 8 park alanı için tasarlanmıştır. Sistem, prototip testleri ve küçük çaplı uygulamalar için optimize edilmiştir; gelecekte istenilen ölçekte kolayca genişletilebilir.
+
 -------------------------------------------------------------------------------------------------
 Mobil Uygulama - Rezervasyon Arayüzü 
 <img width="237" height="440" alt="Ekran görüntüsü 2025-09-29 174906" src="https://github.com/user-attachments/assets/afa19a35-99e9-4133-a541-7a6e2ac8feab" />
