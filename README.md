@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="video_.gif" alt="Video Demo" width="320">
+</div>
+
 # Akıllı-Iot-Tabanlı-Park-Asistanı-Sistemi
 IoT tabanlı bir prototip sistem, sınırlı sayıda sensör ve park alanıyla gerçek zamanlı veri toplama ve rezervasyon sistemini test etmek için entegre edilmiştir. Sistem; mobil uygulama, veri tabanı ve bariyer kontrolü gibi temel modülleri küçük çapta birleştirir ve gelecekteki tam ölçekli sistemler için temel bir altyapı sağlar.
 ---------------------------------------------------------------------------------------------------
