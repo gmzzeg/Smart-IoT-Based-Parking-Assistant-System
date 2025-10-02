@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="video_.gif" alt="Video Demo" width="320">
+  <img src="video_.gif" alt="Video Demo" width="600">
 </div>
 
 # Akıllı-Iot-Tabanlı-Park-Asistanı-Sistemi
